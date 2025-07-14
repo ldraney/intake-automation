@@ -1,0 +1,13 @@
+{
+  "workspaces": {
+    "CRM": "11007618",
+    "LAB": "9736208",
+    "PRODUCTION": "10142622",
+    "PURCHASING": "11346231"
+  },
+  "boards": {
+    "contacts": "9161287505",
+    "accounts": "9161287533",
+    "intake": "9579736643"
+  }
+}
