@@ -7,7 +7,7 @@
     "create-intake-board": "node scripts/create-intake-board.js",
     "add-intake-columns": "node scripts/add-intake-columns.js",
     "fix-dropdown-columns": "node scripts/fix-dropdown-columns.js",
-    "create-working-dropdowns": "node scripts/create-working-dropdowns.js",
+    "setup-intake-board-perfect": "node scripts/setup-intake-board-perfect.js",
     "discover-boards": "node scripts/discover-boards.js"
   },
   "dependencies": {
